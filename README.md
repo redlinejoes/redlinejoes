@@ -11,7 +11,7 @@
   srcset="![RedLine Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=redlinejoes&show_icons=true&theme=merko#gh-light-mode-only)"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=redlinejoes&show_icons=true" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
