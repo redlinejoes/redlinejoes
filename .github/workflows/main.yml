@@ -16,11 +16,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}          
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
           filename: header.svg
 
           # Options
           user: redlinejoes
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: ${{ secrets.USER_TIMEZONE }}          
