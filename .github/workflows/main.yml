@@ -16,11 +16,70 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
+          use_prebuilt_image: yes
           filename: header.svg
+          token: ${{ secrets.METRICS_TOKEN }}          
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: redlinejoes
           template: classic
           base: header
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
+
+  repositories:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          use_prebuilt_image: yes
+          filename: repositories.svg
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: redlinejoes
+          template: classic
+          base: repositories
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
+
+  acti_comm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          use_prebuilt_image: yes
+          filename: acti_comm.svg
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: redlinejoes
+          template: classic
+          base: activity, community
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
+
+  iso_calender:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: redlinejoes
+          template: classic
+          base: ""
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

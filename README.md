@@ -12,5 +12,24 @@
   <img align="center" width="49%" src="./header.svg" />
 </a>
 <br/>
+<a href="https://github.com/redlinejoes">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/redlinejoes">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
 
-![Metrics](https://metrics.lecoq.io/redlinejoes?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
+<a href="https://github.com/redlinejoes">
+  <img align="center" width="49%" src="./metrics.plugin.isocalendar.fullyear.svg" />
+</a>
+
+<a href="https://github.com/redlinejoes">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/redlinejoes">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/redlinejoes">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
