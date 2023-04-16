@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://github.com/redlinejoes">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+    <img align="center" width="49%" src="./metrics.plugin.followup.indepth.svg" />
 </a>
 
 <a href="https://github.com/redlinejoes">

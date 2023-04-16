@@ -70,6 +70,7 @@ jobs:
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
+          use_prebuilt_image: yes
           filename: metrics.plugin.isocalendar.fullyear.svg
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -83,3 +84,53 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+  issue_pr_lang:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Indepth analysis
+        uses: lowlighter/metrics@latest
+        with:
+          use_prebuilt_image: yes
+          filename: metrics.plugin.followup.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          plugin_languages: yes
+
+  habits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          use_prebuilt_image: yes
+          filename: github-habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.USER_TIMEZONE }} # Set timezone
+          user: redlinejoes
+          base: ""
+          template: classic
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
+
+  achievements:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          use_prebuilt_image: yes
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: redlinejoes
+          base: achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: B      # Display achievements with rank B or higher
+          plugin_achievements_secrets: yes      # Display unlocked secrets achievements
+          plugin_achievements_display: compact  # Use compact display
+          plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
