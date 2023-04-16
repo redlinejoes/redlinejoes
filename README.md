@@ -8,6 +8,9 @@
 
 [![Repo Pin](https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=underground-nexus&show_owner=true&theme=merko&bg_color=00000000&hide_border=true)](https://github.com/redlinejoes/underground-nexus)
 
-![Metrics](./github-metrics.svg)
+<a href="https://github.com/redlinejoes">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
 
 ![Metrics](https://metrics.lecoq.io/redlinejoes?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
