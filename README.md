@@ -4,6 +4,6 @@
 
 ![Metrics](https://metrics.lecoq.io/redlinejoes?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redlinejoes&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redlinejoes&langs_count=8&layout=compact&theme=merko&bg_color=00000000&hide_border=true)
 
-[![Readme Repo Pin](https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=github-readme-stats&show_owner=true)](https://github.com/redlinejoes/github-readme-stats)
+[![Readme Repo Pin](https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=github-readme-stats&show_owner=true&theme=merko&bg_color=00000000&hide_border=true)](https://github.com/redlinejoes/github-readme-stats)
