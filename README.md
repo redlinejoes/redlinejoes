@@ -40,3 +40,18 @@
 <a href="https://github.com/redlinejoes">
     <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=underground-nexus&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
+<a href="https://github.com/redlinejoes">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=zarf&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+<a href="https://github.com/redlinejoes">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=cherry2k&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+<a href="https://github.com/redlinejoes">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=glaucus&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+<a href="https://github.com/redlinejoes">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=gow&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+<a href="https://github.com/redlinejoes">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=upptime&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
