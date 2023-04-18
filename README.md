@@ -82,10 +82,38 @@
     <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=glaucus&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
 
+<a href="https://github.com/redlinejoes/Cybersecurity-Vulnerability-Mindmap">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=Cybersecurity-Vulnerability-Mindmap&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
+<a href="https://github.com/redlinejoes/wazuh">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=wazuh&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
+<a href="https://github.com/redlinejoes/KaiMonkey">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=KaiMonkey&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
 <h2><span style="color:green">Game Streaming</span></h2>
 
 <a href="https://github.com/redlinejoes/gow">
     <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=gow&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
+<a href="https://github.com/redlinejoes/wolf">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=wolf&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
+<a href="https://github.com/redlinejoes/moonlight-qt">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=moonlight-qt&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
+<a href="https://github.com/redlinejoes/moonlight-ios">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=moonlight-ios&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
+<a href="https://github.com/redlinejoes/Easy-GPU-PV">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=Easy-GPU-PV&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
 
 <h2><span style="color:green">Containers</span></h2>
