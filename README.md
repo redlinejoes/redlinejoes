@@ -40,6 +40,10 @@
 
 <h2><span style="color:green">DevSecOps Internal Developer Platforms</span></h2>
 
+<a href="https://github.com/redlinejoes/DevSecOps">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=devsecops&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
 <a href="https://github.com/redlinejoes/containment-field">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=containment-field&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
