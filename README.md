@@ -86,6 +86,10 @@
     <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=glaucus&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
 
+<a href="https://github.com/redlinejoes/lions-mane-jellyfish">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=lions-mane-jellyfish&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
 <a href="https://github.com/redlinejoes/Cybersecurity-Vulnerability-Mindmap">
     <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=Cybersecurity-Vulnerability-Mindmap&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
