@@ -121,7 +121,7 @@ jobs:
   achievements:
     runs-on: ubuntu-latest
     steps:
-      - uses: redlinejoes/metrics@v3.33.1
+      - uses: redlinejoes/metrics@master
         with:
           use_prebuilt_image: yes
           filename: achievements.svg
