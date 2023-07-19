@@ -14,7 +14,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: redlinejoes/metrics@master
         with:
           use_prebuilt_image: yes
           filename: header.svg
@@ -31,7 +31,7 @@ jobs:
   repositories:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: redlinejoes/metrics@master
         with:
           use_prebuilt_image: yes
           filename: repositories.svg
@@ -49,7 +49,7 @@ jobs:
   acti_comm:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: redlinejoes/metrics@master
         with:
           use_prebuilt_image: yes
           filename: acti_comm.svg
@@ -68,7 +68,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Full-year calendar
-        uses: lowlighter/metrics@latest
+        uses: redlinejoes/metrics@master
         with:
           use_prebuilt_image: yes
           filename: metrics.plugin.isocalendar.fullyear.svg
@@ -89,7 +89,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Indepth analysis
-        uses: lowlighter/metrics@latest
+        uses: redlinejoes/metrics@master
         with:
           use_prebuilt_image: yes
           filename: metrics.plugin.followup.indepth.svg
@@ -102,7 +102,7 @@ jobs:
   habits:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: redlinejoes/metrics@master
         with:
           use_prebuilt_image: yes
           filename: github-habits.svg
